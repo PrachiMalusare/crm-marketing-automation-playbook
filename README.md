@@ -21,7 +21,7 @@ Create one reliable revenue process that helps marketing and sales:
 
 | Area | Deliverable | Business value |
 |---|---|---|
-| CRM foundation | (docs/01-crm-data-model.md) | Clean, usable customer records |
+| CRM foundation | [CRM data model](docs/01-crm-data-model.md) | Clean, usable customer records |
 | Qualification | (docs/02-lead-scoring.md) | Prioritizes high-fit, engaged leads |
 | Automation | [Nurture workflows](docs/03-nurture-workflows.md) | Timely, relevant follow-up at scale |
 | Pipeline | [Pipeline management](docs/04-pipeline-management.md) | Consistent opportunity progression |
