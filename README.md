@@ -22,12 +22,12 @@ Create one reliable revenue process that helps marketing and sales:
 | Area | Deliverable | Business value |
 |---|---|---|
 | CRM foundation | [CRM data model](01-crm-data-model.md) | Clean, usable customer records |
-| Qualification | (docs/02-lead-scoring.md) | Prioritizes high-fit, engaged leads |
-| Automation | [Nurture workflows](docs/03-nurture-workflows.md) | Timely, relevant follow-up at scale |
-| Pipeline | [Pipeline management](docs/04-pipeline-management.md) | Consistent opportunity progression |
-| Alignment | [Sales-handoff SLA](docs/05-sales-handoff-sla.md) | Clear ownership and faster response |
-| Measurement | [Dashboard framework](docs/06-reporting-dashboard.md) | Visibility into funnel performance |
-| Application | [Sample SaaS case study](case-study/pune-saas-crm-case-study.md) | End-to-end implementation example |
+| Qualification | [Lead scoring](02-lead-scoring.md) | Prioritizes high-fit, engaged leads |
+| Automation | [Nurture workflows](03-nurture-workflows.md) | Timely, relevant follow-up at scale |
+| Pipeline | [Pipeline management](04-pipeline-management.md) | Consistent opportunity progression |
+| Alignment | [Sales-handoff SLA](05-sales-handoff-sla.md) | Clear ownership and faster response |
+| Measurement | [Dashboard framework](06-reporting-dashboard.md) | Visibility into funnel performance |
+| Application | [Sample SaaS case study](pune-saas-crm-case-study.md) | End-to-end implementation example |
 
 ## Customer journey
 
